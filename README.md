@@ -46,3 +46,4 @@ Bir terminal ekranında testleri çalıştırırken bir diğerinde ise debug yap
 2. Oluşturduğunuz bu değişikliği, uygun bir mesaj ile commitleyin.
 3. `index.js` dosyasını bulun ve verilen görevleri sırayla tamamlayın. Her görevden sonra bir commit atıp, en son da, `push`layın.
 Update 1
+Update 2
